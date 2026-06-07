@@ -7,6 +7,8 @@
 * `center-clear` (デフォルト: `Ctrl + L`): 画面をクリアし、プロンプトを画面中央に配置します。
 * `center-push` (デフォルト: `Ctrl + G`): 現在の画面出力を保持したまま、プロンプトを画面中央へ移動させます。
 
+![Center Cursor Demo](./center_cursor_demo.gif)
+
 ## 対応環境
 
 * Zsh
